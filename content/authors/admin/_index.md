@@ -24,7 +24,6 @@ role: Студент ФФМиЕН РУДН, Москва
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Российский университет дружбы народов имени Патриса Лулумбы
-    url: 
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -45,7 +44,7 @@ education:
     institution: RUDN
     date_start: 2024-01-09
     date_end: 2028-01-08
-    summary: | В данный момент обучаюсь в РУДН им Патриса Лулумбы на специальности "Компьютерные и информационные науки", заодно изучая испанский, а также углубленно изучая английский язык на модуле переводчика.
+    summary: |
      
     button:
       text: 
@@ -54,7 +53,7 @@ education:
     institution: МАОУ СОШ №29 им Броварца Владимира Тимофеевича
     date_start: 2013-01-09
     date_end: 2024-01-06
-    summary: | Окончил данное учебное заведение с серебряной медалью, получив необходимые знания для сдачи экзаменов и поступления в ВУЗ.
+    summary: | 
       GPA: 3.8/4.0
 
 
