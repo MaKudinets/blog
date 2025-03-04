@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Максим Кудинец
+
 # Name pronunciation (optional)
 name_pronunciation: Maxim Kudinets
 
@@ -24,7 +25,7 @@ role: Студент ФФМиЕН РУДН, Москва
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Российский университет дружбы народов имени Патриса Лулумбы
-
+    url: https://wwww.rudn.ru/
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
@@ -56,15 +57,34 @@ education:
     summary: | 
       GPA: 3.8/4.0
 
+experiences:
+  - title: Студент
+    company: Российский университет дружбы народов (РУДН)
+    location: Москва, Россия
+    date_start: "2024-09-01"
+    date_end: "2028-08-31"
+    summary: |
+      Специализация: компьютерные науки.
+      Основные предметы: программирование, алгоритмы, базы данных.
+      
+work:
+  - position: 
+    company_name: 
+    company_url: ''
+    company_logo: ''
+    date_start: 
+    date_end: ''
+    summary: 
+    
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: Programming languages
     items:
       - name: Python
         description: 'Programming language'
-        percent: 40
+        percent: 60
         icon: code-bracket
       - name: C++
         description: 'Programming language'
@@ -81,15 +101,16 @@ skills:
       - name: Music
         description: 'Listening and critiquing songs and albums'
         percent: 70
-        icon: 
+        icon: guitar
       - name: Armwrestling
         description: 'Popular sport amongst teenagers that i myself have recently found some success in'
         percent: 90
-        icon: 
+        icon: arm
       - name: Volleyball
         description: 'Have been actively attending to some reqional touraments for 5 years'
         percent: 60
-        icon: 
+        icon: ball
+        
 
 languages:
   - name: English
@@ -104,8 +125,20 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 
+awards:
+  - title: Курсы по информатике
+    url: 
+    date: '2024-07-01'
+    awarder: КубГТУ
+    summary: |
+        Прошел курс по информатике в КубГТУ, получил сертификат с отличием
+        
 ---
+
+
 
 ## About Me
 
 Kudinets Maxim Antonovich is a student of the Computer Science classes at RUDN University in Moscow, Russia, has hobbies in various fields of activities such as sport (armwrestling, volleyball, soccer etc.), art (music, drawing etc.), language-learning (english and spanish but mostly english) etc. Wants to become a music critic and a computer scientist upon graduating from RUDN.
+
+
