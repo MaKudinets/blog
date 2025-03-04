@@ -5,12 +5,45 @@
     <link>http://localhost:1313/post/</link>
       <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Blog</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 10 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 17 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
       <title>Blog</title>
       <link>http://localhost:1313/post/</link>
     </image>
+    
+    <item>
+      <title>Прошлая неделя 3</title>
+      <link>http://localhost:1313/post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-3/%D0%BA%D0%B0%D0%BA%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D0%BC%D0%BE%D1%8F%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F3/</link>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D1%8F-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F-3/%D0%BA%D0%B0%D0%BA%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%B0%D0%BC%D0%BE%D1%8F%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F3/</guid>
+      <description>
+
+
+&lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
+  &lt;summary&gt;Table of Contents&lt;/summary&gt;
+  &lt;div class=&#34;text-sm&#34;&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#интересные-события&#34;&gt;Интересные события&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#домашка&#34;&gt;Домашка&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#выходные&#34;&gt;Выходные&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#итог&#34;&gt;Итог&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;h2 id=&#34;интересные-события&#34;&gt;Интересные события&lt;/h2&gt;
+&lt;p&gt;Сходил с девушкой на ВДНХ, потом сходили в крутой ресторан, все остальное время делал домашку&lt;/p&gt;
+&lt;h2 id=&#34;домашка&#34;&gt;Домашка&lt;/h2&gt;
+&lt;p&gt;Всё дается гораздо проще чем раньше, но все равно скучновато. Долгов нет, и то радует.&lt;/p&gt;
+&lt;h2 id=&#34;выходные&#34;&gt;Выходные&lt;/h2&gt;
+&lt;p&gt;Скучно, весь день и смотрел ютуб. Иногда возникало желание сделать дз, но достаточно быстро пропадало&lt;/p&gt;
+&lt;h2 id=&#34;итог&#34;&gt;Итог&lt;/h2&gt;
+&lt;p&gt;Ничего прям супер интересного не произошло, но на следующей неделе наконец переселюсь в другое общежитие(надеюсь), поэтому с нетерпением этого жду&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Легковесные языки разметки</title>

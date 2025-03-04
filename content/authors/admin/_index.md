@@ -34,7 +34,12 @@ profiles:
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/MaKudinets
-
+  - icon: brands/orcid
+    url: https://orcid.org/my-orcid?orcid=0009-0004-8482-0950
+  - icon: 
+    url: https://www.researchgate.net/profile/Maksim-Kudinec?ev=hdr_xprf
+  - icon: 
+    url:  https://www.elibrary.ru/project_user_office.asp
 interests:
   - Artificial Intelligence
   - Computational Linguistics
@@ -101,15 +106,15 @@ skills:
       - name: Music
         description: 'Listening and critiquing songs and albums'
         percent: 70
-        icon: guitar
+        icon:
       - name: Armwrestling
         description: 'Popular sport amongst teenagers that i myself have recently found some success in'
         percent: 90
-        icon: arm
+        icon:
       - name: Volleyball
         description: 'Have been actively attending to some reqional touraments for 5 years'
         percent: 60
-        icon: ball
+        icon:
         
 
 languages:
